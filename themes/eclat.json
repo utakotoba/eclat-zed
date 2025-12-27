@@ -148,10 +148,15 @@
         "players": [
           {
             "cursor": "#CE94A7EE",
-            "selection": "#3F3136AA"
+            "selection": "#3F313676"
           }
         ],
         "syntax": {
+          "primary": {
+            "color": "#8F8F8AFF",
+            "font_style": null,
+            "font_weight": null
+          },
           "attribute": {
             "color": "#CE94A7FF",
             "font_style": "italic",
@@ -200,6 +205,21 @@
           "function": {
             "color": "#AA9DCAFF",
             "font_style": "italic",
+            "font_weight": null
+          },
+          "enum": {
+            "color": "#C0BEAFFF",
+            "font_style": null,
+            "font_weight": null
+          },
+          "namespace": {
+            "color": "#AA9DCAFF",
+            "font_style": null,
+            "font_weight": null
+          },
+          "preproc": {
+            "color": "#A0A973FF",
+            "font_style": null,
             "font_weight": null
           },
           "hint": {
