@@ -4,7 +4,7 @@
   "author": "Akiyama Kohane",
   "themes": [
     {
-      "name": "Éclat Nocturne",
+      "name": "Eclat Nocturne",
       "appearance": "dark",
       "style": {
         "border": "#272726FF",
@@ -371,7 +371,7 @@
       }
     },
     {
-      "name": "Éclat Vaporeux",
+      "name": "Eclat Vaporeux",
       "appearance": "dark",
       "style": {
         "background.appearance": "blurred",
