@@ -141,7 +141,7 @@
         "terminal.ansi.bright_magenta": "#CA6385FF",
         "terminal.ansi.cyan": "#76A78FFF",
         "terminal.ansi.dim_cyan": "#526F61FF",
-        "terminal.ansi.bright_cyan": "#379072FF",
+        "terminal.ansi.bright_cyan": "#3B9174FF",
         "terminal.ansi.white": "#C0BEAFFF",
         "terminal.ansi.dim_white": "#8E8D80FF",
         "terminal.ansi.bright_white": "#DBDAD1FF",
@@ -178,7 +178,7 @@
             "font_weight": null
           },
           "constant": {
-            "color": "#379072FF",
+            "color": "#3B9174FF",
             "font_style": null,
             "font_weight": 600
           },
@@ -343,7 +343,7 @@
             "font_weight": null
           },
           "title": {
-            "color": "#379072FF",
+            "color": "#3B9174FF",
             "font_style": null,
             "font_weight": 700
           },
