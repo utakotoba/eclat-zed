@@ -38,6 +38,8 @@
         "editor.subheader.background": "#151515FF",
         "editor.wrap_guide": "#62635F54",
         "editor.document_highlight.bracket_background": "#655D79AA",
+        "editor.document_highlight.read_background": "#655D79AA",
+        "editor.document_highlight.write_background": "#655D79AA",
         "element.active": "#52525144",
         "element.background": "#212121FF",
         "element.disabled": "#212121FF",
